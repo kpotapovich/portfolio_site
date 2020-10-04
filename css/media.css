@@ -1,0 +1,30 @@
+@media (max-width: 1200px) {
+    .logo {
+        width: 60%;
+        height: 60%;
+    }
+}
+
+@media (max-width: 1024px) {
+
+    .logo {
+        width: 80%;
+        height: 80%;
+    }
+    .description_title {
+        font-size: 70px;
+    }
+    .text {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 900px) {
+    .container {
+        width: 540px;
+    }
+    .logo {
+        width: 65%;
+        height: 65%;
+    }
+}
