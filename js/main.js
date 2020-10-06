@@ -7,3 +7,7 @@ var mySwiper = new Swiper('.swiper-container', {
         clickable: true
     },
 });
+
+var heroEl = 'hero';
+heroEl = document.getElementsByClassName(heroEl);
+window.alert(heroEl);
